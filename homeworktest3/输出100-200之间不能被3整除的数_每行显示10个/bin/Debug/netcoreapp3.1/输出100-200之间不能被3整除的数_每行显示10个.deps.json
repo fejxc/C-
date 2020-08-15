@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "输出100-200之间不能被3整除的数_每行显示10个/1.0.0": {
+        "runtime": {
+          "输出100-200之间不能被3整除的数_每行显示10个.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "输出100-200之间不能被3整除的数_每行显示10个/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

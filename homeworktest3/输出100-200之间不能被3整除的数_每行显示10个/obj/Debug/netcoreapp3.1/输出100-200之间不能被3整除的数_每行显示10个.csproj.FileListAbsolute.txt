@@ -1,0 +1,10 @@
+/Users/sunyun/Projects/homeworktest3/输出100-200之间不能被3整除的数_每行显示10个/bin/Debug/netcoreapp3.1/输出100-200之间不能被3整除的数_每行显示10个
+/Users/sunyun/Projects/homeworktest3/输出100-200之间不能被3整除的数_每行显示10个/bin/Debug/netcoreapp3.1/输出100-200之间不能被3整除的数_每行显示10个.deps.json
+/Users/sunyun/Projects/homeworktest3/输出100-200之间不能被3整除的数_每行显示10个/bin/Debug/netcoreapp3.1/输出100-200之间不能被3整除的数_每行显示10个.runtimeconfig.json
+/Users/sunyun/Projects/homeworktest3/输出100-200之间不能被3整除的数_每行显示10个/bin/Debug/netcoreapp3.1/输出100-200之间不能被3整除的数_每行显示10个.runtimeconfig.dev.json
+/Users/sunyun/Projects/homeworktest3/输出100-200之间不能被3整除的数_每行显示10个/bin/Debug/netcoreapp3.1/输出100-200之间不能被3整除的数_每行显示10个.dll
+/Users/sunyun/Projects/homeworktest3/输出100-200之间不能被3整除的数_每行显示10个/bin/Debug/netcoreapp3.1/输出100-200之间不能被3整除的数_每行显示10个.pdb
+/Users/sunyun/Projects/homeworktest3/输出100-200之间不能被3整除的数_每行显示10个/obj/Debug/netcoreapp3.1/输出100-200之间不能被3整除的数_每行显示10个.AssemblyInfoInputs.cache
+/Users/sunyun/Projects/homeworktest3/输出100-200之间不能被3整除的数_每行显示10个/obj/Debug/netcoreapp3.1/输出100-200之间不能被3整除的数_每行显示10个.AssemblyInfo.cs
+/Users/sunyun/Projects/homeworktest3/输出100-200之间不能被3整除的数_每行显示10个/obj/Debug/netcoreapp3.1/输出100-200之间不能被3整除的数_每行显示10个.dll
+/Users/sunyun/Projects/homeworktest3/输出100-200之间不能被3整除的数_每行显示10个/obj/Debug/netcoreapp3.1/输出100-200之间不能被3整除的数_每行显示10个.pdb

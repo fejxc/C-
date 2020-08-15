@@ -1,0 +1,10 @@
+/Users/sunyun/Projects/homeworktest3/判断一个正整数是否为素数/bin/Debug/netcoreapp3.1/判断一个正整数是否为素数
+/Users/sunyun/Projects/homeworktest3/判断一个正整数是否为素数/bin/Debug/netcoreapp3.1/判断一个正整数是否为素数.deps.json
+/Users/sunyun/Projects/homeworktest3/判断一个正整数是否为素数/bin/Debug/netcoreapp3.1/判断一个正整数是否为素数.runtimeconfig.json
+/Users/sunyun/Projects/homeworktest3/判断一个正整数是否为素数/bin/Debug/netcoreapp3.1/判断一个正整数是否为素数.runtimeconfig.dev.json
+/Users/sunyun/Projects/homeworktest3/判断一个正整数是否为素数/bin/Debug/netcoreapp3.1/判断一个正整数是否为素数.dll
+/Users/sunyun/Projects/homeworktest3/判断一个正整数是否为素数/bin/Debug/netcoreapp3.1/判断一个正整数是否为素数.pdb
+/Users/sunyun/Projects/homeworktest3/判断一个正整数是否为素数/obj/Debug/netcoreapp3.1/判断一个正整数是否为素数.AssemblyInfoInputs.cache
+/Users/sunyun/Projects/homeworktest3/判断一个正整数是否为素数/obj/Debug/netcoreapp3.1/判断一个正整数是否为素数.AssemblyInfo.cs
+/Users/sunyun/Projects/homeworktest3/判断一个正整数是否为素数/obj/Debug/netcoreapp3.1/判断一个正整数是否为素数.dll
+/Users/sunyun/Projects/homeworktest3/判断一个正整数是否为素数/obj/Debug/netcoreapp3.1/判断一个正整数是否为素数.pdb

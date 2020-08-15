@@ -1,0 +1,11 @@
+/Users/sunyun/Projects/classtest001/classtest001/bin/Debug/netcoreapp3.1/classtest001
+/Users/sunyun/Projects/classtest001/classtest001/bin/Debug/netcoreapp3.1/classtest001.deps.json
+/Users/sunyun/Projects/classtest001/classtest001/bin/Debug/netcoreapp3.1/classtest001.runtimeconfig.json
+/Users/sunyun/Projects/classtest001/classtest001/bin/Debug/netcoreapp3.1/classtest001.runtimeconfig.dev.json
+/Users/sunyun/Projects/classtest001/classtest001/bin/Debug/netcoreapp3.1/classtest001.dll
+/Users/sunyun/Projects/classtest001/classtest001/bin/Debug/netcoreapp3.1/classtest001.pdb
+/Users/sunyun/Projects/classtest001/classtest001/obj/Debug/netcoreapp3.1/classtest001.AssemblyInfoInputs.cache
+/Users/sunyun/Projects/classtest001/classtest001/obj/Debug/netcoreapp3.1/classtest001.AssemblyInfo.cs
+/Users/sunyun/Projects/classtest001/classtest001/obj/Debug/netcoreapp3.1/classtest001.dll
+/Users/sunyun/Projects/classtest001/classtest001/obj/Debug/netcoreapp3.1/classtest001.pdb
+/Users/sunyun/Projects/classtest001/classtest001/obj/Debug/netcoreapp3.1/classtest001.csprojAssemblyReference.cache

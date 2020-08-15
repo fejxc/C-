@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "利用下面的近似公式求自然常数e的值/1.0.0": {
+        "runtime": {
+          "利用下面的近似公式求自然常数e的值.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "利用下面的近似公式求自然常数e的值/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

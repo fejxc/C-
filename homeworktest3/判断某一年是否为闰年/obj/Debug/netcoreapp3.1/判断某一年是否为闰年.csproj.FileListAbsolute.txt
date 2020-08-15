@@ -1,0 +1,11 @@
+/Users/sunyun/Projects/homeworktest3/判断某一年是否为闰年/bin/Debug/netcoreapp3.1/判断某一年是否为闰年
+/Users/sunyun/Projects/homeworktest3/判断某一年是否为闰年/bin/Debug/netcoreapp3.1/判断某一年是否为闰年.deps.json
+/Users/sunyun/Projects/homeworktest3/判断某一年是否为闰年/bin/Debug/netcoreapp3.1/判断某一年是否为闰年.runtimeconfig.json
+/Users/sunyun/Projects/homeworktest3/判断某一年是否为闰年/bin/Debug/netcoreapp3.1/判断某一年是否为闰年.runtimeconfig.dev.json
+/Users/sunyun/Projects/homeworktest3/判断某一年是否为闰年/bin/Debug/netcoreapp3.1/判断某一年是否为闰年.dll
+/Users/sunyun/Projects/homeworktest3/判断某一年是否为闰年/bin/Debug/netcoreapp3.1/判断某一年是否为闰年.pdb
+/Users/sunyun/Projects/homeworktest3/判断某一年是否为闰年/obj/Debug/netcoreapp3.1/判断某一年是否为闰年.csprojAssemblyReference.cache
+/Users/sunyun/Projects/homeworktest3/判断某一年是否为闰年/obj/Debug/netcoreapp3.1/判断某一年是否为闰年.AssemblyInfoInputs.cache
+/Users/sunyun/Projects/homeworktest3/判断某一年是否为闰年/obj/Debug/netcoreapp3.1/判断某一年是否为闰年.AssemblyInfo.cs
+/Users/sunyun/Projects/homeworktest3/判断某一年是否为闰年/obj/Debug/netcoreapp3.1/判断某一年是否为闰年.dll
+/Users/sunyun/Projects/homeworktest3/判断某一年是否为闰年/obj/Debug/netcoreapp3.1/判断某一年是否为闰年.pdb

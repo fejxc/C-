@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{1055DC93-CE5C-418D-A1CA-183A693C314F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="利用二维数组存储学生的成绩/Program.cs">
+    <Files>
+      <File FileName="experiment03/Program.cs" Line="1" Column="1" />
+      <File FileName="随机产生100个学生的成绩_计算学生的平均成绩并统计高于平均成绩的人数/Program.cs" />
+      <File FileName="利用二维数组存储学生的成绩/Program.cs" Line="10" Column="13" />
+      <File FileName="利用二维数组存储二维矩阵_对二维矩阵进行转置_分别以上三角和下三角形式输出矩阵/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="experiment03" expanded="True">
+            <Node name="experiment03" expanded="True" />
+            <Node name="利用二维数组存储二维矩阵_对二维矩阵进行转置_分别以上三角和下三角形式输出矩阵" expanded="True" />
+            <Node name="利用二维数组存储学生的成绩" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="随机产生100个学生的成绩_计算学生的平均成绩并统计高于平均成绩的人数" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.experiment03 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.利用二维数组存储学生的成绩 FirstBuild="True" />
+</Properties>

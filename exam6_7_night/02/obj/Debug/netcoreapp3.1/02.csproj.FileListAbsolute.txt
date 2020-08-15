@@ -1,0 +1,10 @@
+/Users/sunyun/Projects/exam6_7_night/02/bin/Debug/netcoreapp3.1/02
+/Users/sunyun/Projects/exam6_7_night/02/bin/Debug/netcoreapp3.1/02.deps.json
+/Users/sunyun/Projects/exam6_7_night/02/bin/Debug/netcoreapp3.1/02.runtimeconfig.json
+/Users/sunyun/Projects/exam6_7_night/02/bin/Debug/netcoreapp3.1/02.runtimeconfig.dev.json
+/Users/sunyun/Projects/exam6_7_night/02/bin/Debug/netcoreapp3.1/02.dll
+/Users/sunyun/Projects/exam6_7_night/02/bin/Debug/netcoreapp3.1/02.pdb
+/Users/sunyun/Projects/exam6_7_night/02/obj/Debug/netcoreapp3.1/02.AssemblyInfoInputs.cache
+/Users/sunyun/Projects/exam6_7_night/02/obj/Debug/netcoreapp3.1/02.AssemblyInfo.cs
+/Users/sunyun/Projects/exam6_7_night/02/obj/Debug/netcoreapp3.1/02.dll
+/Users/sunyun/Projects/exam6_7_night/02/obj/Debug/netcoreapp3.1/02.pdb

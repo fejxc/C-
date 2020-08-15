@@ -1,0 +1,11 @@
+/Users/sunyun/Projects/homeworktest3/按照累进税率计算个人所得税/bin/Debug/netcoreapp3.1/按照累进税率计算个人所得税
+/Users/sunyun/Projects/homeworktest3/按照累进税率计算个人所得税/bin/Debug/netcoreapp3.1/按照累进税率计算个人所得税.deps.json
+/Users/sunyun/Projects/homeworktest3/按照累进税率计算个人所得税/bin/Debug/netcoreapp3.1/按照累进税率计算个人所得税.runtimeconfig.json
+/Users/sunyun/Projects/homeworktest3/按照累进税率计算个人所得税/bin/Debug/netcoreapp3.1/按照累进税率计算个人所得税.runtimeconfig.dev.json
+/Users/sunyun/Projects/homeworktest3/按照累进税率计算个人所得税/bin/Debug/netcoreapp3.1/按照累进税率计算个人所得税.dll
+/Users/sunyun/Projects/homeworktest3/按照累进税率计算个人所得税/bin/Debug/netcoreapp3.1/按照累进税率计算个人所得税.pdb
+/Users/sunyun/Projects/homeworktest3/按照累进税率计算个人所得税/obj/Debug/netcoreapp3.1/按照累进税率计算个人所得税.csprojAssemblyReference.cache
+/Users/sunyun/Projects/homeworktest3/按照累进税率计算个人所得税/obj/Debug/netcoreapp3.1/按照累进税率计算个人所得税.AssemblyInfoInputs.cache
+/Users/sunyun/Projects/homeworktest3/按照累进税率计算个人所得税/obj/Debug/netcoreapp3.1/按照累进税率计算个人所得税.AssemblyInfo.cs
+/Users/sunyun/Projects/homeworktest3/按照累进税率计算个人所得税/obj/Debug/netcoreapp3.1/按照累进税率计算个人所得税.dll
+/Users/sunyun/Projects/homeworktest3/按照累进税率计算个人所得税/obj/Debug/netcoreapp3.1/按照累进税率计算个人所得税.pdb

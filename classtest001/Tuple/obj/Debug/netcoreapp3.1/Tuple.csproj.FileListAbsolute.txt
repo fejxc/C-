@@ -1,0 +1,10 @@
+/Users/sunyun/Projects/classtest001/Tuple/bin/Debug/netcoreapp3.1/Tuple
+/Users/sunyun/Projects/classtest001/Tuple/bin/Debug/netcoreapp3.1/Tuple.deps.json
+/Users/sunyun/Projects/classtest001/Tuple/bin/Debug/netcoreapp3.1/Tuple.runtimeconfig.json
+/Users/sunyun/Projects/classtest001/Tuple/bin/Debug/netcoreapp3.1/Tuple.runtimeconfig.dev.json
+/Users/sunyun/Projects/classtest001/Tuple/bin/Debug/netcoreapp3.1/Tuple.dll
+/Users/sunyun/Projects/classtest001/Tuple/bin/Debug/netcoreapp3.1/Tuple.pdb
+/Users/sunyun/Projects/classtest001/Tuple/obj/Debug/netcoreapp3.1/Tuple.AssemblyInfoInputs.cache
+/Users/sunyun/Projects/classtest001/Tuple/obj/Debug/netcoreapp3.1/Tuple.AssemblyInfo.cs
+/Users/sunyun/Projects/classtest001/Tuple/obj/Debug/netcoreapp3.1/Tuple.dll
+/Users/sunyun/Projects/classtest001/Tuple/obj/Debug/netcoreapp3.1/Tuple.pdb

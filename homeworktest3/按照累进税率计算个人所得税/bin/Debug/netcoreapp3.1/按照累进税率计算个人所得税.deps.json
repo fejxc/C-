@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "按照累进税率计算个人所得税/1.0.0": {
+        "runtime": {
+          "按照累进税率计算个人所得税.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "按照累进税率计算个人所得税/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

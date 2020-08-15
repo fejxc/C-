@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "判断一个字符是大写字母_小写字母_数字字符还是其他字符/1.0.0": {
+        "runtime": {
+          "判断一个字符是大写字母_小写字母_数字字符还是其他字符.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "判断一个字符是大写字母_小写字母_数字字符还是其他字符/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

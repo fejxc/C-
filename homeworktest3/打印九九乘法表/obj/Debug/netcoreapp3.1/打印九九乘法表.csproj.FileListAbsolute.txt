@@ -1,0 +1,10 @@
+/Users/sunyun/Projects/homeworktest3/打印九九乘法表/bin/Debug/netcoreapp3.1/打印九九乘法表
+/Users/sunyun/Projects/homeworktest3/打印九九乘法表/bin/Debug/netcoreapp3.1/打印九九乘法表.deps.json
+/Users/sunyun/Projects/homeworktest3/打印九九乘法表/bin/Debug/netcoreapp3.1/打印九九乘法表.runtimeconfig.json
+/Users/sunyun/Projects/homeworktest3/打印九九乘法表/bin/Debug/netcoreapp3.1/打印九九乘法表.runtimeconfig.dev.json
+/Users/sunyun/Projects/homeworktest3/打印九九乘法表/bin/Debug/netcoreapp3.1/打印九九乘法表.dll
+/Users/sunyun/Projects/homeworktest3/打印九九乘法表/bin/Debug/netcoreapp3.1/打印九九乘法表.pdb
+/Users/sunyun/Projects/homeworktest3/打印九九乘法表/obj/Debug/netcoreapp3.1/打印九九乘法表.AssemblyInfoInputs.cache
+/Users/sunyun/Projects/homeworktest3/打印九九乘法表/obj/Debug/netcoreapp3.1/打印九九乘法表.AssemblyInfo.cs
+/Users/sunyun/Projects/homeworktest3/打印九九乘法表/obj/Debug/netcoreapp3.1/打印九九乘法表.dll
+/Users/sunyun/Projects/homeworktest3/打印九九乘法表/obj/Debug/netcoreapp3.1/打印九九乘法表.pdb

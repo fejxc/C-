@@ -1,0 +1,11 @@
+/Users/sunyun/Projects/classtest001/switchtest/bin/Debug/netcoreapp3.1/switchtest
+/Users/sunyun/Projects/classtest001/switchtest/bin/Debug/netcoreapp3.1/switchtest.deps.json
+/Users/sunyun/Projects/classtest001/switchtest/bin/Debug/netcoreapp3.1/switchtest.runtimeconfig.json
+/Users/sunyun/Projects/classtest001/switchtest/bin/Debug/netcoreapp3.1/switchtest.runtimeconfig.dev.json
+/Users/sunyun/Projects/classtest001/switchtest/bin/Debug/netcoreapp3.1/switchtest.dll
+/Users/sunyun/Projects/classtest001/switchtest/bin/Debug/netcoreapp3.1/switchtest.pdb
+/Users/sunyun/Projects/classtest001/switchtest/obj/Debug/netcoreapp3.1/switchtest.csprojAssemblyReference.cache
+/Users/sunyun/Projects/classtest001/switchtest/obj/Debug/netcoreapp3.1/switchtest.AssemblyInfoInputs.cache
+/Users/sunyun/Projects/classtest001/switchtest/obj/Debug/netcoreapp3.1/switchtest.AssemblyInfo.cs
+/Users/sunyun/Projects/classtest001/switchtest/obj/Debug/netcoreapp3.1/switchtest.dll
+/Users/sunyun/Projects/classtest001/switchtest/obj/Debug/netcoreapp3.1/switchtest.pdb

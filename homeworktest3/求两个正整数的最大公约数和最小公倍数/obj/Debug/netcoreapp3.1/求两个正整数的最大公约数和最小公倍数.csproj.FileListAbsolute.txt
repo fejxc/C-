@@ -1,0 +1,11 @@
+/Users/sunyun/Projects/homeworktest3/求两个正整数的最大公约数和最小公倍数/bin/Debug/netcoreapp3.1/求两个正整数的最大公约数和最小公倍数
+/Users/sunyun/Projects/homeworktest3/求两个正整数的最大公约数和最小公倍数/bin/Debug/netcoreapp3.1/求两个正整数的最大公约数和最小公倍数.deps.json
+/Users/sunyun/Projects/homeworktest3/求两个正整数的最大公约数和最小公倍数/bin/Debug/netcoreapp3.1/求两个正整数的最大公约数和最小公倍数.runtimeconfig.json
+/Users/sunyun/Projects/homeworktest3/求两个正整数的最大公约数和最小公倍数/bin/Debug/netcoreapp3.1/求两个正整数的最大公约数和最小公倍数.runtimeconfig.dev.json
+/Users/sunyun/Projects/homeworktest3/求两个正整数的最大公约数和最小公倍数/bin/Debug/netcoreapp3.1/求两个正整数的最大公约数和最小公倍数.dll
+/Users/sunyun/Projects/homeworktest3/求两个正整数的最大公约数和最小公倍数/bin/Debug/netcoreapp3.1/求两个正整数的最大公约数和最小公倍数.pdb
+/Users/sunyun/Projects/homeworktest3/求两个正整数的最大公约数和最小公倍数/obj/Debug/netcoreapp3.1/求两个正整数的最大公约数和最小公倍数.csprojAssemblyReference.cache
+/Users/sunyun/Projects/homeworktest3/求两个正整数的最大公约数和最小公倍数/obj/Debug/netcoreapp3.1/求两个正整数的最大公约数和最小公倍数.AssemblyInfoInputs.cache
+/Users/sunyun/Projects/homeworktest3/求两个正整数的最大公约数和最小公倍数/obj/Debug/netcoreapp3.1/求两个正整数的最大公约数和最小公倍数.AssemblyInfo.cs
+/Users/sunyun/Projects/homeworktest3/求两个正整数的最大公约数和最小公倍数/obj/Debug/netcoreapp3.1/求两个正整数的最大公约数和最小公倍数.dll
+/Users/sunyun/Projects/homeworktest3/求两个正整数的最大公约数和最小公倍数/obj/Debug/netcoreapp3.1/求两个正整数的最大公约数和最小公倍数.pdb

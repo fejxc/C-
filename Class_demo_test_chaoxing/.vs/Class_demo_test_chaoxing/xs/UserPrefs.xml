@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{B52412D8-8FB4-4185-AAD0-F20A41DBF42F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Class_demo_test_chaoxing/Ticket.cs">
+    <Files>
+      <File FileName="Class_demo_test_chaoxing/Program.cs" Line="9" Column="13" />
+      <File FileName="Class_demo_test_chaoxing/Ticket.cs" Line="20" Column="47" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Class_demo_test_chaoxing" expanded="True">
+            <Node name="Class_demo_test_chaoxing" expanded="True">
+              <Node name="Ticket.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Class__demo__test__chaoxing PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

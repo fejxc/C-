@@ -1,0 +1,11 @@
+/Users/sunyun/Projects/IO_01_homework/IO_01_homework/bin/Debug/netcoreapp3.1/IO_01_homework
+/Users/sunyun/Projects/IO_01_homework/IO_01_homework/bin/Debug/netcoreapp3.1/IO_01_homework.deps.json
+/Users/sunyun/Projects/IO_01_homework/IO_01_homework/bin/Debug/netcoreapp3.1/IO_01_homework.runtimeconfig.json
+/Users/sunyun/Projects/IO_01_homework/IO_01_homework/bin/Debug/netcoreapp3.1/IO_01_homework.runtimeconfig.dev.json
+/Users/sunyun/Projects/IO_01_homework/IO_01_homework/bin/Debug/netcoreapp3.1/IO_01_homework.dll
+/Users/sunyun/Projects/IO_01_homework/IO_01_homework/bin/Debug/netcoreapp3.1/IO_01_homework.pdb
+/Users/sunyun/Projects/IO_01_homework/IO_01_homework/obj/Debug/netcoreapp3.1/IO_01_homework.csprojAssemblyReference.cache
+/Users/sunyun/Projects/IO_01_homework/IO_01_homework/obj/Debug/netcoreapp3.1/IO_01_homework.AssemblyInfoInputs.cache
+/Users/sunyun/Projects/IO_01_homework/IO_01_homework/obj/Debug/netcoreapp3.1/IO_01_homework.AssemblyInfo.cs
+/Users/sunyun/Projects/IO_01_homework/IO_01_homework/obj/Debug/netcoreapp3.1/IO_01_homework.dll
+/Users/sunyun/Projects/IO_01_homework/IO_01_homework/obj/Debug/netcoreapp3.1/IO_01_homework.pdb

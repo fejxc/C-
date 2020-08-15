@@ -1,0 +1,10 @@
+/Users/sunyun/Projects/classtest001/fib_test/bin/Debug/netcoreapp3.1/fib_test
+/Users/sunyun/Projects/classtest001/fib_test/bin/Debug/netcoreapp3.1/fib_test.deps.json
+/Users/sunyun/Projects/classtest001/fib_test/bin/Debug/netcoreapp3.1/fib_test.runtimeconfig.json
+/Users/sunyun/Projects/classtest001/fib_test/bin/Debug/netcoreapp3.1/fib_test.runtimeconfig.dev.json
+/Users/sunyun/Projects/classtest001/fib_test/bin/Debug/netcoreapp3.1/fib_test.dll
+/Users/sunyun/Projects/classtest001/fib_test/bin/Debug/netcoreapp3.1/fib_test.pdb
+/Users/sunyun/Projects/classtest001/fib_test/obj/Debug/netcoreapp3.1/fib_test.AssemblyInfoInputs.cache
+/Users/sunyun/Projects/classtest001/fib_test/obj/Debug/netcoreapp3.1/fib_test.AssemblyInfo.cs
+/Users/sunyun/Projects/classtest001/fib_test/obj/Debug/netcoreapp3.1/fib_test.dll
+/Users/sunyun/Projects/classtest001/fib_test/obj/Debug/netcoreapp3.1/fib_test.pdb

@@ -1,0 +1,11 @@
+/Users/sunyun/Projects/Class_demo_test_chaoxing/Class_demo_test_chaoxing/bin/Debug/netcoreapp3.1/Class_demo_test_chaoxing
+/Users/sunyun/Projects/Class_demo_test_chaoxing/Class_demo_test_chaoxing/bin/Debug/netcoreapp3.1/Class_demo_test_chaoxing.deps.json
+/Users/sunyun/Projects/Class_demo_test_chaoxing/Class_demo_test_chaoxing/bin/Debug/netcoreapp3.1/Class_demo_test_chaoxing.runtimeconfig.json
+/Users/sunyun/Projects/Class_demo_test_chaoxing/Class_demo_test_chaoxing/bin/Debug/netcoreapp3.1/Class_demo_test_chaoxing.runtimeconfig.dev.json
+/Users/sunyun/Projects/Class_demo_test_chaoxing/Class_demo_test_chaoxing/bin/Debug/netcoreapp3.1/Class_demo_test_chaoxing.dll
+/Users/sunyun/Projects/Class_demo_test_chaoxing/Class_demo_test_chaoxing/bin/Debug/netcoreapp3.1/Class_demo_test_chaoxing.pdb
+/Users/sunyun/Projects/Class_demo_test_chaoxing/Class_demo_test_chaoxing/obj/Debug/netcoreapp3.1/Class_demo_test_chaoxing.csprojAssemblyReference.cache
+/Users/sunyun/Projects/Class_demo_test_chaoxing/Class_demo_test_chaoxing/obj/Debug/netcoreapp3.1/Class_demo_test_chaoxing.AssemblyInfoInputs.cache
+/Users/sunyun/Projects/Class_demo_test_chaoxing/Class_demo_test_chaoxing/obj/Debug/netcoreapp3.1/Class_demo_test_chaoxing.AssemblyInfo.cs
+/Users/sunyun/Projects/Class_demo_test_chaoxing/Class_demo_test_chaoxing/obj/Debug/netcoreapp3.1/Class_demo_test_chaoxing.dll
+/Users/sunyun/Projects/Class_demo_test_chaoxing/Class_demo_test_chaoxing/obj/Debug/netcoreapp3.1/Class_demo_test_chaoxing.pdb

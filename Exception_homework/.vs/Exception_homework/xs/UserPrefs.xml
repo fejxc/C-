@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{B5492513-B7EF-46FF-9D4B-DDBB41CE880C}|Default">
+  <MonoDevelop.Ide.ItemProperties.Exception__homework FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Exception_homework/Triangle.cs">
+    <Files>
+      <File FileName="Exception_homework/Program.cs" Line="16" Column="16" />
+      <File FileName="Exception_homework/IllegalTriangleException.cs" />
+      <File FileName="Exception_homework/Triangle.cs" Line="10" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Exception_homework" expanded="True">
+            <Node name="Exception_homework" expanded="True">
+              <Node name="Triangle.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

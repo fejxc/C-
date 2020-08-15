@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "判断一个正整数是否为素数/1.0.0": {
+        "runtime": {
+          "判断一个正整数是否为素数.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "判断一个正整数是否为素数/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

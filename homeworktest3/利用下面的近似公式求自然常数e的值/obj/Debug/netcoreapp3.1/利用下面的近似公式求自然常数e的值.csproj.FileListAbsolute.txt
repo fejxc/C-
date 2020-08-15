@@ -1,0 +1,10 @@
+/Users/sunyun/Projects/homeworktest3/利用下面的近似公式求自然常数e的值/bin/Debug/netcoreapp3.1/利用下面的近似公式求自然常数e的值
+/Users/sunyun/Projects/homeworktest3/利用下面的近似公式求自然常数e的值/bin/Debug/netcoreapp3.1/利用下面的近似公式求自然常数e的值.deps.json
+/Users/sunyun/Projects/homeworktest3/利用下面的近似公式求自然常数e的值/bin/Debug/netcoreapp3.1/利用下面的近似公式求自然常数e的值.runtimeconfig.json
+/Users/sunyun/Projects/homeworktest3/利用下面的近似公式求自然常数e的值/bin/Debug/netcoreapp3.1/利用下面的近似公式求自然常数e的值.runtimeconfig.dev.json
+/Users/sunyun/Projects/homeworktest3/利用下面的近似公式求自然常数e的值/bin/Debug/netcoreapp3.1/利用下面的近似公式求自然常数e的值.dll
+/Users/sunyun/Projects/homeworktest3/利用下面的近似公式求自然常数e的值/bin/Debug/netcoreapp3.1/利用下面的近似公式求自然常数e的值.pdb
+/Users/sunyun/Projects/homeworktest3/利用下面的近似公式求自然常数e的值/obj/Debug/netcoreapp3.1/利用下面的近似公式求自然常数e的值.AssemblyInfoInputs.cache
+/Users/sunyun/Projects/homeworktest3/利用下面的近似公式求自然常数e的值/obj/Debug/netcoreapp3.1/利用下面的近似公式求自然常数e的值.AssemblyInfo.cs
+/Users/sunyun/Projects/homeworktest3/利用下面的近似公式求自然常数e的值/obj/Debug/netcoreapp3.1/利用下面的近似公式求自然常数e的值.dll
+/Users/sunyun/Projects/homeworktest3/利用下面的近似公式求自然常数e的值/obj/Debug/netcoreapp3.1/利用下面的近似公式求自然常数e的值.pdb

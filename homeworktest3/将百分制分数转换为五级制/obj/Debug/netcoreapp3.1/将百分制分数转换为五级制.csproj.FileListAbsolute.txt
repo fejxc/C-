@@ -1,0 +1,10 @@
+/Users/sunyun/Projects/homeworktest3/将百分制分数转换为五级制/bin/Debug/netcoreapp3.1/将百分制分数转换为五级制
+/Users/sunyun/Projects/homeworktest3/将百分制分数转换为五级制/bin/Debug/netcoreapp3.1/将百分制分数转换为五级制.deps.json
+/Users/sunyun/Projects/homeworktest3/将百分制分数转换为五级制/bin/Debug/netcoreapp3.1/将百分制分数转换为五级制.runtimeconfig.json
+/Users/sunyun/Projects/homeworktest3/将百分制分数转换为五级制/bin/Debug/netcoreapp3.1/将百分制分数转换为五级制.runtimeconfig.dev.json
+/Users/sunyun/Projects/homeworktest3/将百分制分数转换为五级制/bin/Debug/netcoreapp3.1/将百分制分数转换为五级制.dll
+/Users/sunyun/Projects/homeworktest3/将百分制分数转换为五级制/bin/Debug/netcoreapp3.1/将百分制分数转换为五级制.pdb
+/Users/sunyun/Projects/homeworktest3/将百分制分数转换为五级制/obj/Debug/netcoreapp3.1/将百分制分数转换为五级制.AssemblyInfoInputs.cache
+/Users/sunyun/Projects/homeworktest3/将百分制分数转换为五级制/obj/Debug/netcoreapp3.1/将百分制分数转换为五级制.AssemblyInfo.cs
+/Users/sunyun/Projects/homeworktest3/将百分制分数转换为五级制/obj/Debug/netcoreapp3.1/将百分制分数转换为五级制.dll
+/Users/sunyun/Projects/homeworktest3/将百分制分数转换为五级制/obj/Debug/netcoreapp3.1/将百分制分数转换为五级制.pdb

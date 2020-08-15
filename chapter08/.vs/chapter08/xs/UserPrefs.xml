@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{3B175EF2-5BD1-4CA6-B241-45872D83CA08}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="chapter08/chapter08.csproj">
+    <Files>
+      <File FileName="chapter08/chapter08.csproj" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="chapter08" expanded="True" selected="True">
+            <Node name="chapter08" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.chapter08 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

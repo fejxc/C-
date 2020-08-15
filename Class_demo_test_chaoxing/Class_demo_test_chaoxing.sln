@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class_demo_test_chaoxing", "Class_demo_test_chaoxing\Class_demo_test_chaoxing.csproj", "{B52412D8-8FB4-4185-AAD0-F20A41DBF42F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B52412D8-8FB4-4185-AAD0-F20A41DBF42F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B52412D8-8FB4-4185-AAD0-F20A41DBF42F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B52412D8-8FB4-4185-AAD0-F20A41DBF42F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B52412D8-8FB4-4185-AAD0-F20A41DBF42F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

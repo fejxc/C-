@@ -1,0 +1,10 @@
+/Users/sunyun/Projects/homeworktest3/判断一个字符是大写字母_小写字母_数字字符还是其他字符/bin/Debug/netcoreapp3.1/判断一个字符是大写字母_小写字母_数字字符还是其他字符
+/Users/sunyun/Projects/homeworktest3/判断一个字符是大写字母_小写字母_数字字符还是其他字符/bin/Debug/netcoreapp3.1/判断一个字符是大写字母_小写字母_数字字符还是其他字符.deps.json
+/Users/sunyun/Projects/homeworktest3/判断一个字符是大写字母_小写字母_数字字符还是其他字符/bin/Debug/netcoreapp3.1/判断一个字符是大写字母_小写字母_数字字符还是其他字符.runtimeconfig.json
+/Users/sunyun/Projects/homeworktest3/判断一个字符是大写字母_小写字母_数字字符还是其他字符/bin/Debug/netcoreapp3.1/判断一个字符是大写字母_小写字母_数字字符还是其他字符.runtimeconfig.dev.json
+/Users/sunyun/Projects/homeworktest3/判断一个字符是大写字母_小写字母_数字字符还是其他字符/bin/Debug/netcoreapp3.1/判断一个字符是大写字母_小写字母_数字字符还是其他字符.dll
+/Users/sunyun/Projects/homeworktest3/判断一个字符是大写字母_小写字母_数字字符还是其他字符/bin/Debug/netcoreapp3.1/判断一个字符是大写字母_小写字母_数字字符还是其他字符.pdb
+/Users/sunyun/Projects/homeworktest3/判断一个字符是大写字母_小写字母_数字字符还是其他字符/obj/Debug/netcoreapp3.1/判断一个字符是大写字母_小写字母_数字字符还是其他字符.AssemblyInfoInputs.cache
+/Users/sunyun/Projects/homeworktest3/判断一个字符是大写字母_小写字母_数字字符还是其他字符/obj/Debug/netcoreapp3.1/判断一个字符是大写字母_小写字母_数字字符还是其他字符.AssemblyInfo.cs
+/Users/sunyun/Projects/homeworktest3/判断一个字符是大写字母_小写字母_数字字符还是其他字符/obj/Debug/netcoreapp3.1/判断一个字符是大写字母_小写字母_数字字符还是其他字符.dll
+/Users/sunyun/Projects/homeworktest3/判断一个字符是大写字母_小写字母_数字字符还是其他字符/obj/Debug/netcoreapp3.1/判断一个字符是大写字母_小写字母_数字字符还是其他字符.pdb

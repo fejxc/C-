@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Class_demo_test_chaoxing/1.0.0": {
+        "runtime": {
+          "Class_demo_test_chaoxing.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Class_demo_test_chaoxing/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

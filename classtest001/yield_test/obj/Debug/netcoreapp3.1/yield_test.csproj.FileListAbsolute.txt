@@ -1,0 +1,10 @@
+/Users/sunyun/Projects/classtest001/yield_test/bin/Debug/netcoreapp3.1/yield_test
+/Users/sunyun/Projects/classtest001/yield_test/bin/Debug/netcoreapp3.1/yield_test.deps.json
+/Users/sunyun/Projects/classtest001/yield_test/bin/Debug/netcoreapp3.1/yield_test.runtimeconfig.json
+/Users/sunyun/Projects/classtest001/yield_test/bin/Debug/netcoreapp3.1/yield_test.runtimeconfig.dev.json
+/Users/sunyun/Projects/classtest001/yield_test/bin/Debug/netcoreapp3.1/yield_test.dll
+/Users/sunyun/Projects/classtest001/yield_test/bin/Debug/netcoreapp3.1/yield_test.pdb
+/Users/sunyun/Projects/classtest001/yield_test/obj/Debug/netcoreapp3.1/yield_test.AssemblyInfoInputs.cache
+/Users/sunyun/Projects/classtest001/yield_test/obj/Debug/netcoreapp3.1/yield_test.AssemblyInfo.cs
+/Users/sunyun/Projects/classtest001/yield_test/obj/Debug/netcoreapp3.1/yield_test.dll
+/Users/sunyun/Projects/classtest001/yield_test/obj/Debug/netcoreapp3.1/yield_test.pdb

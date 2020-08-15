@@ -1,0 +1,10 @@
+/Users/sunyun/Projects/Exception_homework/Exception_homework/bin/Debug/netcoreapp3.1/Exception_homework
+/Users/sunyun/Projects/Exception_homework/Exception_homework/bin/Debug/netcoreapp3.1/Exception_homework.deps.json
+/Users/sunyun/Projects/Exception_homework/Exception_homework/bin/Debug/netcoreapp3.1/Exception_homework.runtimeconfig.json
+/Users/sunyun/Projects/Exception_homework/Exception_homework/bin/Debug/netcoreapp3.1/Exception_homework.runtimeconfig.dev.json
+/Users/sunyun/Projects/Exception_homework/Exception_homework/bin/Debug/netcoreapp3.1/Exception_homework.dll
+/Users/sunyun/Projects/Exception_homework/Exception_homework/bin/Debug/netcoreapp3.1/Exception_homework.pdb
+/Users/sunyun/Projects/Exception_homework/Exception_homework/obj/Debug/netcoreapp3.1/Exception_homework.AssemblyInfoInputs.cache
+/Users/sunyun/Projects/Exception_homework/Exception_homework/obj/Debug/netcoreapp3.1/Exception_homework.AssemblyInfo.cs
+/Users/sunyun/Projects/Exception_homework/Exception_homework/obj/Debug/netcoreapp3.1/Exception_homework.dll
+/Users/sunyun/Projects/Exception_homework/Exception_homework/obj/Debug/netcoreapp3.1/Exception_homework.pdb

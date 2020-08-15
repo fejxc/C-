@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "求两个正整数的最大公约数和最小公倍数/1.0.0": {
+        "runtime": {
+          "求两个正整数的最大公约数和最小公倍数.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "求两个正整数的最大公约数和最小公倍数/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

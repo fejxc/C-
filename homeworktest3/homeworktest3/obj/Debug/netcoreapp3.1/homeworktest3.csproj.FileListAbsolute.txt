@@ -1,0 +1,11 @@
+/Users/sunyun/Projects/homeworktest3/homeworktest3/bin/Debug/netcoreapp3.1/homeworktest3
+/Users/sunyun/Projects/homeworktest3/homeworktest3/bin/Debug/netcoreapp3.1/homeworktest3.deps.json
+/Users/sunyun/Projects/homeworktest3/homeworktest3/bin/Debug/netcoreapp3.1/homeworktest3.runtimeconfig.json
+/Users/sunyun/Projects/homeworktest3/homeworktest3/bin/Debug/netcoreapp3.1/homeworktest3.runtimeconfig.dev.json
+/Users/sunyun/Projects/homeworktest3/homeworktest3/bin/Debug/netcoreapp3.1/homeworktest3.dll
+/Users/sunyun/Projects/homeworktest3/homeworktest3/bin/Debug/netcoreapp3.1/homeworktest3.pdb
+/Users/sunyun/Projects/homeworktest3/homeworktest3/obj/Debug/netcoreapp3.1/homeworktest3.csprojAssemblyReference.cache
+/Users/sunyun/Projects/homeworktest3/homeworktest3/obj/Debug/netcoreapp3.1/homeworktest3.AssemblyInfoInputs.cache
+/Users/sunyun/Projects/homeworktest3/homeworktest3/obj/Debug/netcoreapp3.1/homeworktest3.AssemblyInfo.cs
+/Users/sunyun/Projects/homeworktest3/homeworktest3/obj/Debug/netcoreapp3.1/homeworktest3.dll
+/Users/sunyun/Projects/homeworktest3/homeworktest3/obj/Debug/netcoreapp3.1/homeworktest3.pdb

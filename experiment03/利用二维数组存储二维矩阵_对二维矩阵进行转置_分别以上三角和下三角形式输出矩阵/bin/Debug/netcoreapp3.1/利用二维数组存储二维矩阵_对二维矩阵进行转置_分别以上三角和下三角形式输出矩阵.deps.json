@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "利用二维数组存储二维矩阵_对二维矩阵进行转置_分别以上三角和下三角形式输出矩阵/1.0.0": {
+        "runtime": {
+          "利用二维数组存储二维矩阵_对二维矩阵进行转置_分别以上三角和下三角形式输出矩阵.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "利用二维数组存储二维矩阵_对二维矩阵进行转置_分别以上三角和下三角形式输出矩阵/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

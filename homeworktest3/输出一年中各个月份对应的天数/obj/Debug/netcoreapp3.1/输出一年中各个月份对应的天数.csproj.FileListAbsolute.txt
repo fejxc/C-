@@ -1,0 +1,10 @@
+/Users/sunyun/Projects/homeworktest3/输出一年中各个月份对应的天数/bin/Debug/netcoreapp3.1/输出一年中各个月份对应的天数
+/Users/sunyun/Projects/homeworktest3/输出一年中各个月份对应的天数/bin/Debug/netcoreapp3.1/输出一年中各个月份对应的天数.deps.json
+/Users/sunyun/Projects/homeworktest3/输出一年中各个月份对应的天数/bin/Debug/netcoreapp3.1/输出一年中各个月份对应的天数.runtimeconfig.json
+/Users/sunyun/Projects/homeworktest3/输出一年中各个月份对应的天数/bin/Debug/netcoreapp3.1/输出一年中各个月份对应的天数.runtimeconfig.dev.json
+/Users/sunyun/Projects/homeworktest3/输出一年中各个月份对应的天数/bin/Debug/netcoreapp3.1/输出一年中各个月份对应的天数.dll
+/Users/sunyun/Projects/homeworktest3/输出一年中各个月份对应的天数/bin/Debug/netcoreapp3.1/输出一年中各个月份对应的天数.pdb
+/Users/sunyun/Projects/homeworktest3/输出一年中各个月份对应的天数/obj/Debug/netcoreapp3.1/输出一年中各个月份对应的天数.AssemblyInfoInputs.cache
+/Users/sunyun/Projects/homeworktest3/输出一年中各个月份对应的天数/obj/Debug/netcoreapp3.1/输出一年中各个月份对应的天数.AssemblyInfo.cs
+/Users/sunyun/Projects/homeworktest3/输出一年中各个月份对应的天数/obj/Debug/netcoreapp3.1/输出一年中各个月份对应的天数.dll
+/Users/sunyun/Projects/homeworktest3/输出一年中各个月份对应的天数/obj/Debug/netcoreapp3.1/输出一年中各个月份对应的天数.pdb
